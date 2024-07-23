@@ -9,7 +9,7 @@
 + 입출력 예
   |n|return|
   |---|---|
-  |12345|[5,4,3,2,1|
+  |12345|[5,4,3,2,1]|
 
 ### 내가 푼 방법
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/Day_1/Array.java)
