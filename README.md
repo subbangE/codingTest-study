@@ -3,5 +3,5 @@
 + 1일차 (2024-07-22)
   + [자연수 뒤집어 배열로 만들기](https://github.com/subbangE/codingTest-study/blob/master/src/Day_1/array.md)
 + 2일차 (2024-07-23)
-  + [평균 구하기](https://github.com/subbangE/codingTest-study/blob/master/src/Day_2/Array2.java)
+  + [평균 구하기](https://github.com/subbangE/codingTest-study/blob/master/src/Day_2/array2.md)
   
