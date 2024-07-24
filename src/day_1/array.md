@@ -21,7 +21,7 @@
 5. n을 10으로 나누어 변수 재선언하고 i를 증감연산자를 통해 n이 0보다 작거나 같을때까지 반복하게 함.
 
 ### 내가 푼 풀이
-👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/Day_1/Array.java)
+👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_1/Array.java)
 
 ### 헷갈리는 부분
 + 배열에서는 length() 사용
