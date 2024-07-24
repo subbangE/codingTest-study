@@ -1,5 +1,8 @@
 package day_3;
 
+// 항해99 코딩테스트 스터디 3기 - 3일차
+// 문자열 내 p와 y의 개수
+
 public class String {
     public boolean solution(String s) {
         String str = s.toLowerCase();   // 문자열 s 의 모든 문자를 소문자로 바꿈

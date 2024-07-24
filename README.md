@@ -5,4 +5,4 @@
 + 2일차 (2024-07-23)
   + [평균 구하기](https://github.com/subbangE/codingTest-study/blob/master/src/Day_2/array2.md)
 + 3일차 (2024-07-24)
-  + 
+  + [문자열 내 p와 y의 개수](https://github.com/subbangE/codingTest-study/blob/master/src/day_3/string.md)
