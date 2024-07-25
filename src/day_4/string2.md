@@ -20,7 +20,7 @@
 + Integer.parseInt(String) : int 형으로 리턴하기 때문에 null 값이 들어가면 안되고 음수 지원됨.
 
 ### 내가 푼 풀이
-👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_3/String.java)
+👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_4/String2.java)
 
 ### 느낀점
 기존에 Integer.parseInt() 메소드를 써봤음에도 불구하고 이 메서드가 음수도 지원되는지 몰랐는데 찾아보니 음수도 지원이 가능했었다!!
