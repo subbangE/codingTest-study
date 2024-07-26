@@ -7,7 +7,7 @@
 + 3일차 (2024-07-24)
   + [문자열 내 p와 y의 개수](https://github.com/subbangE/codingTest-study/blob/master/src/day_3/string.md)
 + 4일차 (2024-07-25)
-  + [문자열을 정수로 바꾸기](https://github.com/subbangE/codingTest-study/blob/master/src/day_4/string2.md
+  + [문자열을 정수로 바꾸기](https://github.com/subbangE/codingTest-study/blob/master/src/day_4/string2.md)
 + 5일차 (2024-07-26)
   + [완주하지 못한 선수](https://github.com/subbangE/codingTest-study/blob/master/src/day_5/hashmap.md)
   
