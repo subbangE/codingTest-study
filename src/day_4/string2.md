@@ -51,6 +51,13 @@ public static int solution(String s) {
   
 ```
 
+### 이슈 및 해결 방안
++ 문자(char) 배열을 정수(int)로 변환하는 과정에서 아스키 코드로 출력됨 => (int)(arr[i])
+  + Chracter.getNumericValue() 메소드를 이용하기
+  + 문자 '0'을 빼기 : int a = (int)(arr[i]) - '0' 
++ for 문에서 마지막 숫자에도 answer *= 10이 됨.
+  + for 문에서 s.length()-1을 하고 벗어난 후 더함
+
 ### 느낀점
 기존에 Integer.parseInt() 메소드를 써봤음에도 불구하고 이 메서드가 음수도 지원되는지 몰랐는데 찾아보니 음수도 지원이 가능했었다!!
 오늘 문제는 검색하느라 문제 풀이 시간이 조금 걸렸지만 역대급으로 짧은 코딩 문제였던 것 같다.
