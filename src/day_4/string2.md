@@ -16,8 +16,8 @@
   + str은 부호(+,-)와 숫자로만 구성되어 있고, 잘못된 값이 입력되는 경우는 없습니다.
 
 ### 오늘의 공부 포인트
-+ Integer.valueOf(String) : Integer 클래스(객체)로 리턴하기 때문에 산술연산이 불가하고 음수는 지원 안됨.
-+ Integer.parseInt(String) : int 형으로 리턴하기 때문에 null 값이 들어가면 안되고 음수 지원됨.
++ Integer.valueOf(String) : Integer 클래스(객체)로 리턴하기 때문에 산술연산이 불가하고 null값 가능함.
++ Integer.parseInt(String) : int 형으로 리턴하기 때문에 null 값이 들어가면 안됨.
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_4/String2.java)
