@@ -22,6 +22,35 @@
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_4/String2.java)
 
+### 내가 푼 풀이2
++ 한줄 코드 풀어서 한 버전
+```
+public static int solution(String s) {
+  int answer = 0;
+  char[] arr = new char[s.length()];
+  
+  for(int i=0; i<s.length(); i++) {
+    arr[i] = s.charAt(i);
+  }
+  
+  if (arr[0] == '-') {
+    for(int j=1; j<s.length()-1; j++) {
+      answer += Character.getNumericValue(arr[i]);
+      answer *= 10;
+    }
+    answer += Character.getNumericValue(arr[i]);
+    return -answer;
+  } else {
+    for (int i=0; i<s.length()-1; i++) {
+      answer += Character.getNumericValue(arr[i]);
+      answer *= 10;
+    }
+    answer += Character.getNumericValue(arr[i]);
+    return answer;
+  }
+  
+```
+
 ### 느낀점
 기존에 Integer.parseInt() 메소드를 써봤음에도 불구하고 이 메서드가 음수도 지원되는지 몰랐는데 찾아보니 음수도 지원이 가능했었다!!
 오늘 문제는 검색하느라 문제 풀이 시간이 조금 걸렸지만 역대급으로 짧은 코딩 문제였던 것 같다.
