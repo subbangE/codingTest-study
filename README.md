@@ -12,3 +12,5 @@
   + [완주하지 못한 선수](https://github.com/subbangE/codingTest-study/blob/master/src/day_5/hashMap.md)
 + 6일차 (2024-07-27)
   + [폰켓몬](https://github.com/subbangE/codingTest-study/blob/master/src/day_6/HashMap2.md)
++ 7일차 (2024-07-28)
+  + [같은 숫자는 싫어](https://github.com/subbangE/codingTest-study/blob/master/src/day_7/stack.md)
