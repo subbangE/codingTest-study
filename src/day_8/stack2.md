@@ -22,8 +22,8 @@
   | ")()("   | false  |
   | "(()("   | false  |
 
-### 오늘의 공부 포인트
-
+### 내가 푼 풀이
+👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_8/stack2.java)
 
 ### 접근 방법 및 풀이 해석
 1. 괄호가 짝지어져 있어야 한다고해서 int 형 cnt 를 선언해서 문제를 풀어야겠다고 생각함
@@ -65,9 +65,6 @@ class Solution {
     }
     ```
     구문 추가하여 문제 해결
-
-### 내가 푼 풀이
-👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_8/stack2.java)
 
 ### 느낀점
 cnt 로 문제를 풀어야겠다고 생각해서 그런지 스택으로 어떻게 문제를 해결해 나갈지 감도 안잡혀서 스택으로 못풀었다..😢 한번 더 고민해보고 스택으로 푼 풀이도 추가해서 올려야겠다
