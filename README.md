@@ -14,3 +14,5 @@
   + [폰켓몬](https://github.com/subbangE/codingTest-study/blob/master/src/day_6/HashMap2.md)
 + 7일차 (2024-07-28)
   + [같은 숫자는 싫어](https://github.com/subbangE/codingTest-study/blob/master/src/day_7/stack.md)
++ 8일차 (2024-07-29)
+  + [올바른 괄호](https://github.com/subbangE/codingTest-study/blob/master/src/day_8/stack2.md)
