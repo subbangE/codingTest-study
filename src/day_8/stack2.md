@@ -57,7 +57,7 @@ class Solution {
 }
 ```
 + ocnt가 더 클 경우를 생각하지 못해서 에러가 남
-![테스트.JPG](/day_8/테스트.JPG)
+![테스트](https://github.com/user-attachments/assets/7ab0b007-e0ed-4c1d-bd8d-bcf28d1bf452)
   + ```
     if (ocnt == ccnt) {
         return true;
