@@ -75,6 +75,9 @@ class Solution {
     }
 }
 ```
+
+![에러](https://github.com/user-attachments/assets/a9a12ef0-051e-43cd-92e7-fb90ae75e33f)
+
 + 2번째 테스트에서 자꾸 에러가남
     + int cnt 를 선언해서 사용하는 것 대신에 hashmap 을 이용해서 키 : 점수, 값 : 순위로 하여 매핑시킴
     + for 문을 이용해서 score 배열의 순서대로 scoreSort 키와 비교해서 값을 answer 배열에 넣은 후 return
