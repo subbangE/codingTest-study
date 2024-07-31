@@ -19,4 +19,4 @@
 + 9일차 (2024-07-30)
   + [Relative Rank](https://github.com/subbangE/codingTest-study/blob/master/src/day_9/heap.md)
 + 10일차 (2024-07-31)
-  + [ㄴ](https://github.com/subbangE/codingTest-study/blob/master/src/day_10/heap2.md)
+  + [스트림에서 K번째로 큰 요소](https://github.com/subbangE/codingTest-study/blob/master/src/day_10/heap2.md)
