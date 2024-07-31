@@ -5,10 +5,12 @@ import java.util.*;
 
 class KthLargest {
     private int k;
+    private int[] nums = {};
     private PriorityQueue<Integer> min;
 
     public KthLargest(int k, int[] nums) {
         this.k = k;
+        this.nums = new int[nums.length];
         min = new PriorityQueue<>();    // 기본형: 우선순위가 낮은 숫자가 먼저 나옴 (작은 숫자)
 
         for (int num : nums) {
