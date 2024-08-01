@@ -16,6 +16,7 @@
   + [같은 숫자는 싫어](https://github.com/subbangE/codingTest-study/blob/master/src/day_7/stack.md)
 + 8일차 (2024-07-29)
   + [올바른 괄호](https://github.com/subbangE/codingTest-study/blob/master/src/day_8/stack2.md)
+  + [기능 개발](https://github.com/subbangE/codingTest-study/blob/master/src/day_8/share1.java)
 + 9일차 (2024-07-30)
   + [Relative Rank](https://github.com/subbangE/codingTest-study/blob/master/src/day_9/heap.md)
 + 10일차 (2024-07-31)
