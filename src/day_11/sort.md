@@ -4,6 +4,7 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
+![11일차 문제](https://github.com/user-attachments/assets/a09d4104-b344-4a7f-a023-acc13aac37e6)
 
 
 ### 오늘의 공부 포인트
