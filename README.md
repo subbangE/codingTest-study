@@ -24,4 +24,4 @@
 + 11일차 (2024-08-01)
   + [정수 내림차순으로 배치하기](https://github.com/subbangE/codingTest-study/blob/master/src/day_11/sort.md)
 + 12일차 (2024-08-02)
-  + [](https://github.com/subbangE/codingTest-study/blob/master/src/day_11/sort2.md)
+  + [문자열 내림차순으로 배치하기](https://github.com/subbangE/codingTest-study/blob/master/src/day_12/sort2.md)
