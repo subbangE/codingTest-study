@@ -27,3 +27,5 @@
   + [문자열 내림차순으로 배치하기](https://github.com/subbangE/codingTest-study/blob/master/src/day_12/sort2.md)
 + 13일차 (2024-08-03)
   + [Search in a Binary Search Tree](https://github.com/subbangE/codingTest-study/blob/master/src/day_13/tree.md)
++ 14일 (2024-08-04)
+  + [Symmetric Tree](https://github.com/subbangE/codingTest-study/blob/master/src/day_14/tree2.md)
