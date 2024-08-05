@@ -32,3 +32,4 @@
   + [Symmetric Tree](https://github.com/subbangE/codingTest-study/blob/master/src/day_14/tree2.md)
 + 15일 (2024-08-05)
   + [모의고사](https://github.com/subbangE/codingTest-study/blob/master/src/day_15/fullSearch.md)
+  + [ Prefix and Suffix Search](https://github.com/subbangE/codingTest-study/blob/master/src/day_15/fullSearch_middler.md)
