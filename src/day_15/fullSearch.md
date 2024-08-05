@@ -4,10 +4,12 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
+![15일차 문제-1](https://github.com/user-attachments/assets/60331239-f11e-438e-9b28-6ffb846adb90)
 
 
 ### 오늘의 공부 포인트
-+ 배열 선언하고 값을 넣음과 동시에 return 할 수 있다! 예시) return new int[]{1,2}
++ 배열 선언하고 값을 넣음과 동시에 return 할 수 있다!
++ > 예시) return new int[]{1,2}
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_15/fullSearch.java)
@@ -24,6 +26,3 @@
 2. 세개를 각자 따로 비교하는 것보다 세개를 서로 한번 비교한 다음에 max 값을 정해 max 와 비교하는게 코드 길이가 더 짧고 가독성이 있어 보인다.
 
 위의 2가지를 보완해서 풀었다면 좀 더 나았을것 같다.
-
-
-new int[]{1,2}
