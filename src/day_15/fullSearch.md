@@ -9,7 +9,7 @@
 
 ### 오늘의 공부 포인트
 + 배열 선언하고 값을 넣음과 동시에 return 할 수 있다!
-+ > 예시) return new int[]{1,2}
+  > 예시) return new int[]{1,2}
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_15/fullSearch.java)
