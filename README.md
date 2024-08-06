@@ -33,3 +33,5 @@
 + 15일 (2024-08-05)
   + [모의고사](https://github.com/subbangE/codingTest-study/blob/master/src/day_15/fullSearch.md)
   + [ Prefix and Suffix Search](https://github.com/subbangE/codingTest-study/blob/master/src/day_15/fullSearch_middler.java)
++ 16일 (2024-08-06)
+  + [최소직사각형](https://github.com/subbangE/codingTest-study/blob/master/src/day_16/fullSearch2.java)
