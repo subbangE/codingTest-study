@@ -4,7 +4,7 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
-
+![17일차 문제](https://github.com/user-attachments/assets/1cf8123d-ce4a-45ca-9e1a-dcde914a48a4)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_17/dfs.java)
