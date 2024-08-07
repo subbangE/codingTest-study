@@ -4,7 +4,8 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
-
+![16일차 문제-1](https://github.com/user-attachments/assets/ee4c847e-17dd-49b0-b9c9-a6a6d17f14f4)
+![16일차 문제-2](https://github.com/user-attachments/assets/ad4b1bc3-dcea-4e61-a482-027ce233fbe3)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_16/fullSearch2.java)
@@ -18,18 +19,18 @@
 
 ### 보완하면 좋을 것 같은 부분
 + Math.max() 와 Math.min()을 사용해서 풀기
-+ 다른 사람 풀이
-    ```
-    public int solution(int[][] sizes) {
-        int length = 0, height = 0;
-        for (int[] card : sizes) {
-            length = Math.max(length, Math.max(card[0], card[1]));
-            height = Math.max(height, Math.min(card[0], card[1]));
+    + 다른 사람 풀이
+        ```
+        public int solution(int[][] sizes) {
+            int length = 0, height = 0;
+            for (int[] card : sizes) {
+                length = Math.max(length, Math.max(card[0], card[1]));
+                height = Math.max(height, Math.min(card[0], card[1]));
+            }
+            int answer = length * height;
+            return answer;
         }
-        int answer = length * height;
-        return answer;
-    }
-    ```
+        ```
 + 시간 복잡도 개선을 위해 for 문 사용 줄여서 풀기
 
 ### 느낀점
