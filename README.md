@@ -37,3 +37,5 @@
   + [최소직사각형](https://github.com/subbangE/codingTest-study/blob/master/src/day_16/fullSearch2.md)
 + 17일 (2024-08-07)
   + [Binary Tree Inorder Traversal](https://github.com/subbangE/codingTest-study/blob/master/src/day_17/dfs.md)
++ 18일 (2024-08-08)
+  + [Increasing Order Search Tree](https://github.com/subbangE/codingTest-study/blob/master/src/day_18/dfs2.md)
