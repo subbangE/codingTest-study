@@ -4,6 +4,8 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
+![18일차 문제-1](https://github.com/user-attachments/assets/5a4e7580-dac6-4af8-85f5-1acfd259dc67)
+![18일차 문제-2](https://github.com/user-attachments/assets/ca429b11-b946-4d05-bc5f-39c6dadc182e)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_18/dfs2.java)
@@ -16,6 +18,7 @@
 5. while 문이 끝난 후 point.left = null 을 해줌
 
 ### 이슈 및 해결 방안
+![18일차 문제오류](https://github.com/user-attachments/assets/56f29849-692b-4f19-a68b-1ac6a334d85a)
 + 이슈 : answer 을 return 하기 전에 point.left = null; 을 해주지 않아서 오류가 발생함
   + 원인 : point 가 가지고 있던 전의 point.left (즉, point 의 왼쪽 노드) 를 계속 가지고 있어서 발생함
 
