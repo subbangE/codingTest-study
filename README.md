@@ -39,3 +39,5 @@
   + [Binary Tree Inorder Traversal](https://github.com/subbangE/codingTest-study/blob/master/src/day_17/dfs.md)
 + 18일 (2024-08-08)
   + [Increasing Order Search Tree](https://github.com/subbangE/codingTest-study/blob/master/src/day_18/dfs2.md)
++ 19일 (2024-08-09)
+  + [과일 장수](https://github.com/subbangE/codingTest-study/blob/master/src/day_19/greedy.md)
