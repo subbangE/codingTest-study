@@ -21,15 +21,30 @@ class Solution {
         
     
         for (int i = 0; i < lost.length; i++) {
-			for (int j = 0; j < reserve.length; j++) {
-				if (lost[i] == reserve[j]) {
+         for (int j = 0; j < reserve.length; j++) {
+            if (lost[i] == reserve[j]) {
                     cnt++;
-					lost[i] = -1;
-					reserve[j] = -1;
+               lost[i] = -1;
+               reserve[j] = -1;
                     break;
-				}
-			}
-		}
+            }
+         }
+      }
+        
+        
+        for (int i = 0; i < lost.length; i++) {
+         for (int j = 0; j < reserve.length; j++) {
+            if (lost[i] - 1 == reserve[j] || lost[i] + 1 == reserve[j]) {
+                    cnt++;
+               reserve[j] = -1;
+               break;
+            }
+         }
+      }
+        answer = cnt;
+        return answer;
+    }
+}
 ```
         
 ### 접근 방법 및 풀이 해석
