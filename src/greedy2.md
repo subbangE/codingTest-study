@@ -51,6 +51,3 @@ class Solution {
 1. n을 lost 배열의 길이만큼 뺀다
 2. for문을 이용하여 lost배열과 reserve배열의 관계를 확인 후 n을 추가한다.
 3. for문이 정상적으로 종료되면 answer을 반환한다
-
-### 느낀점
-화이팅
