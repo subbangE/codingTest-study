@@ -6,7 +6,7 @@
 ### 문제
 
 ### 내가 푼 풀이
-
+```
 import java.util.*;
 
 class Solution {
@@ -30,6 +30,7 @@ class Solution {
 				}
 			}
 		}
+```
         
 ### 접근 방법 및 풀이 해석
 1. n을 lost 배열의 길이만큼 뺀다
