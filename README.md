@@ -41,5 +41,7 @@
   + [Increasing Order Search Tree](https://github.com/subbangE/codingTest-study/blob/master/src/day_18/dfs2.md)
 + 19일 (2024-08-09)
   + [과일 장수](https://github.com/subbangE/codingTest-study/blob/master/src/day_19/greedy.md)
-+ 21일 (2024-08-12)
++ 21일 (2024-08-11)
   + [Pascal's Triangle](https://github.com/subbangE/codingTest-study/blob/master/src/day_21/dp.md)
++ 22일 (2024-08-12)
+  + [Pascal's Triangle 2](https://github.com/subbangE/codingTest-study/blob/master/src/day_22/dp2.md)
