@@ -45,3 +45,5 @@
   + [Pascal's Triangle](https://github.com/subbangE/codingTest-study/blob/master/src/day_21/dp.md)
 + 22일 (2024-08-12)
   + [Pascal's Triangle 2](https://github.com/subbangE/codingTest-study/blob/master/src/day_22/dp2.md)
++ 23일 (2024-08-13)
+  + [Array Partition](https://github.com/subbangE/codingTest-study/blob/master/src/day_23/greedy3.md)
