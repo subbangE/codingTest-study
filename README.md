@@ -47,3 +47,5 @@
   + [Pascal's Triangle 2](https://github.com/subbangE/codingTest-study/blob/master/src/day_22/dp2.md)
 + 23일 (2024-08-13)
   + [Array Partition](https://github.com/subbangE/codingTest-study/blob/master/src/day_23/greedy3.md)
++ 24일 (2024-08-14)
+  + [Find Center of Star Graph](https://github.com/subbangE/codingTest-study/blob/master/src/day_24/graph.md)
