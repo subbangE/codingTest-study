@@ -4,6 +4,7 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
+![25일차 문제](https://github.com/user-attachments/assets/b0562350-9979-4020-a8f2-f84007ed94d7)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_25/graph2.java)
