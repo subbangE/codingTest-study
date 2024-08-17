@@ -53,3 +53,5 @@
   + [Find if Path Exists in Graph](https://github.com/subbangE/codingTest-study/blob/master/src/day_25/graph2.md)
 + 26일 (2024-08-16)
   + [바탕화면 정리](https://github.com/subbangE/codingTest-study/blob/master/src/day_26/simulation.md)
++ 27일 (2024-08-17)
+  + [공원 산책](https://github.com/subbangE/codingTest-study/blob/master/src/day_27/simulation2.md)
