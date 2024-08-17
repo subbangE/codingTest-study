@@ -4,6 +4,11 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
+![27일차 문제-1](https://github.com/user-attachments/assets/6a72b231-f622-42e0-9ba7-28e3938567be)
+![27일차 문제-2](https://github.com/user-attachments/assets/67e4cc5e-8cd3-4044-a6aa-552343f6fccc)
+![27일차 문제-3](https://github.com/user-attachments/assets/263cf12b-0a6a-42bf-ac3f-3b995cbc24ba)
+![27일차 문제-4](https://github.com/user-attachments/assets/b8bb7135-d0e2-467b-a18b-9bac6754fcf6)
+![27일차 문제-5](https://github.com/user-attachments/assets/f3fdbea0-18dd-44ec-bc81-cfd1f3e24600)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_27/simulation2.java)
