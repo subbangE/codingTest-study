@@ -4,6 +4,9 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
+![바탕화면 정리 -1](https://github.com/user-attachments/assets/fc41bd4a-0740-4505-b8be-1243a9268d6f)
+![바탕화면 정리 -2](https://github.com/user-attachments/assets/10b68a73-4457-4fce-9eb4-bdc38591ae25)
+![바탕화면 정리 -3](https://github.com/user-attachments/assets/4850a239-aacf-43f2-a977-343b5014a28e)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_26/simulation.java)
