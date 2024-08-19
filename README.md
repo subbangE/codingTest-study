@@ -55,3 +55,5 @@
   + [바탕화면 정리](https://github.com/subbangE/codingTest-study/blob/master/src/day_26/simulation.md)
 + 27일 (2024-08-17)
   + [공원 산책](https://github.com/subbangE/codingTest-study/blob/master/src/day_27/simulation2.md)
++ 28일 (2024-08-18)
+  + [프로세스](https://github.com/subbangE/codingTest-study/blob/master/src/day_28/queue.md)
