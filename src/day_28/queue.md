@@ -4,7 +4,8 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
-
+![28일차 문제](https://github.com/user-attachments/assets/a9b035ee-ad81-46d5-9fc2-065bf0dbec72)
+![28일차 문제-2](https://github.com/user-attachments/assets/63249be3-8c6d-46b4-af17-e468b7c05b4b)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_28/queue.java)
