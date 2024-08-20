@@ -4,6 +4,7 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
+![30일차 문제](https://github.com/user-attachments/assets/a15bcb7b-897d-4888-992b-60f813ebbf10)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_30/search2.java)
