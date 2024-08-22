@@ -61,3 +61,5 @@
   + [Missing Number](https://github.com/subbangE/codingTest-study/blob/master/src/day_29/search.md)
 + 30일차 (2024-08-20)
   + [Arranging Coins](https://github.com/subbangE/codingTest-study/blob/master/src/day_30/search2.md)
++ 31일차 (2024-08-22)
+  + [Clear Cold Water](https://github.com/subbangE/codingTest-study/blob/master/src/day_31/bfs.md)
