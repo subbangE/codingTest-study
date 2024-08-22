@@ -4,6 +4,8 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
+![32일차 문제-1](https://github.com/user-attachments/assets/e4af6a9b-eb9b-490e-bb06-4fd5b6404696)
+![32일차 문제-2](https://github.com/user-attachments/assets/d55a3b0f-623e-4766-b05e-78a8d9eebff4)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_32/bfs2.java)
