@@ -63,3 +63,5 @@
   + [Arranging Coins](https://github.com/subbangE/codingTest-study/blob/master/src/day_30/search2.md)
 + 31일차 (2024-08-22)
   + [Clear Cold Water](https://github.com/subbangE/codingTest-study/blob/master/src/day_31/bfs.md)
++ 32일차 (2024-08-23)
+  + [Bad Grass](https://github.com/subbangE/codingTest-study/blob/master/src/day_32/bfs2.md)
