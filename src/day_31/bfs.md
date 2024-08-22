@@ -1,9 +1,11 @@
 # 99클럽 스터디 31일차 TIL + 키워드 BFS(너비 우선 탐색)
-> 2024-08-22 목요일
+> 2024-08-21 수요일
 
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
+![31일차 문제-1](https://github.com/user-attachments/assets/2d70a416-997e-4ad9-8427-db2fadd739e1)
+![31일차 문제-2](https://github.com/user-attachments/assets/d4695011-11df-4096-9783-01f1dbf3e45f)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_31/bfs.java)
