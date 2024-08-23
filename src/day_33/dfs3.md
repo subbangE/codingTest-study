@@ -4,6 +4,8 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
+![33일차 문제-1](https://github.com/user-attachments/assets/bd6119b2-0366-4fe3-ae6f-b9fbb8d976bf)
+![33일차 문제-2](https://github.com/user-attachments/assets/2f8758f5-23dd-4244-b54a-d794ef3fc72e)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_33/dfs3.java)
