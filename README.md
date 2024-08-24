@@ -67,3 +67,5 @@
   + [Bad Grass](https://github.com/subbangE/codingTest-study/blob/master/src/day_32/bfs2.md)
 + 33일차 (2024-08-23)
   + [Number of Good Leaf Nodes Pairs](https://github.com/subbangE/codingTest-study/blob/master/src/day_33/dfs3.md)
++ 34일차 (2024-08-24)
+  + [양 한마리... 양 두마리...](https://github.com/subbangE/codingTest-study/blob/master/src/day_34/dfs4.md)
