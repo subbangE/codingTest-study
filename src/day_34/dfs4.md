@@ -4,7 +4,8 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
-
+![34일차 문제-1](https://github.com/user-attachments/assets/fb835b4b-b3ab-4149-964d-4323a364d83e)
+![34일차 문제-2](https://github.com/user-attachments/assets/b2adef93-06f3-4d09-ab0d-ef42d30534dc)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_34/dfs4.java)
