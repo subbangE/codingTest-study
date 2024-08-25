@@ -69,3 +69,5 @@
   + [Number of Good Leaf Nodes Pairs](https://github.com/subbangE/codingTest-study/blob/master/src/day_33/dfs3.md)
 + 34일차 (2024-08-24)
   + [양 한마리... 양 두마리...](https://github.com/subbangE/codingTest-study/blob/master/src/day_34/dfs4.md)
++ 35일차 (2024-08-25)
+  + [영역 구하기](https://github.com/subbangE/codingTest-study/blob/master/src/day_35/dfs5.md)
