@@ -4,7 +4,8 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
-
+![35일차 문제-1](https://github.com/user-attachments/assets/4a4b578b-3d59-44ff-ab4b-2e2cc35b866e)
+![35일차 문제-2](https://github.com/user-attachments/assets/5f1e2203-09ee-4d32-831e-6c8a3c239b81)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_35/dfs5.java)
@@ -89,4 +90,4 @@ public class dfs5 {
 ```
 
 ### 느낀점
-알다가도 모르겠는 dfs...ㅜㅜ
+알다가도 모르겠는 DFS...ㅜㅜ
