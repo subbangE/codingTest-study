@@ -4,7 +4,7 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
-
+![36일차 문제](https://github.com/user-attachments/assets/aaff5334-a770-49c6-9987-1791989414f6)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_36/search3.java)
@@ -15,4 +15,4 @@
 3. cnt 가 2보다 크다면(3이상이라면) i값 출력
 
 ### 느낀점
-알다가도 모르겠는 DFS...ㅜㅜ
+코테 문제 푸는 곳은 개인적으로 백준이 가장 제일 별로인거 같다,,, 넘 불편쓰
