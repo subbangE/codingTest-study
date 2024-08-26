@@ -5,6 +5,9 @@ import java.util.*;
 
 public class search3 {
 
+    // 항해99 코딩테스트 스터디 3기 - 36일차
+    // 적어도 대부분의 배수
+
     public static void main(String args[]) throws IOException {
         int cnt = 0;
 
