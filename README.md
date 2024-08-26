@@ -71,3 +71,5 @@
   + [양 한마리... 양 두마리...](https://github.com/subbangE/codingTest-study/blob/master/src/day_34/dfs4.md)
 + 35일차 (2024-08-25)
   + [영역 구하기](https://github.com/subbangE/codingTest-study/blob/master/src/day_35/dfs5.md)
++ 36일차 (2024-08-26)
+  + [적어도 대부분의 배수](https://github.com/subbangE/codingTest-study/blob/master/src/day_36/search3.md)
