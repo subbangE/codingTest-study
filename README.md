@@ -75,3 +75,5 @@
   + [적어도 대부분의 배수](https://github.com/subbangE/codingTest-study/blob/master/src/day_36/search3.md)
 + 37일차 (2024-08-27)
   + [수학적 호기심](https://github.com/subbangE/codingTest-study/blob/master/src/day_37/search4.md)
++ 38일차 (2024-08-28)
+  + [Longest Palindrome](https://github.com/subbangE/codingTest-study/blob/master/src/day_38/greedy4.md)
