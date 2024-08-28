@@ -4,6 +4,7 @@
 해시태그: #99클럽 #코딩테스트준비 #개발자취업 #항해99 #TIL
 
 ### 문제
+![38일차 문제](https://github.com/user-attachments/assets/f3c97512-b478-4539-9051-5b088e99576d)
 
 ### 내가 푼 풀이
 👉 [문제풀이](https://github.com/subbangE/codingTest-study/blob/master/src/day_38/greedy4.java)
