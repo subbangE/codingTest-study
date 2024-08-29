@@ -77,3 +77,5 @@
   + [수학적 호기심](https://github.com/subbangE/codingTest-study/blob/master/src/day_37/search4.md)
 + 38일차 (2024-08-28)
   + [Longest Palindrome](https://github.com/subbangE/codingTest-study/blob/master/src/day_38/greedy4.md)
++ 39일차 (2024-08-29)
+  + [Assign Cookies](https://github.com/subbangE/codingTest-study/blob/master/src/day_39/greedy5.md)
